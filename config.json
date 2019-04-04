@@ -1,0 +1,13 @@
+{
+    "aws_config":{
+        "bucket_name":"hiringsudarshan",
+        "accessKeyId":"xxxxxxxxxxx",
+        "secretAccessKey":"xxxxxxx",
+        "region":"ap-south-1"
+    },  
+    "date_config":{
+        "req_date":"03.05.2019 01:26",
+        "last24hours":24,
+        "last7days":168
+    }
+}
